@@ -18,7 +18,7 @@ from cryptography.hazmat.backends import default_backend
 
 print("=" * 60)
 print("ЛАБОРАТОРНАЯ РАБОТА ПО КРИПТОГРАФИИ")
-print("Студент: Анна Гришкина")
+print("Студентка: Анна Гришкина")
 print("=" * 60)
 
 # Функции для дополнения PKCS7
